@@ -8,9 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="foodie-dev-pojo" />
         <module name="foodie-dev-common" />
+        <module name="foodie-dev-api" />
         <module name="foodie-dev-mapper" />
         <module name="foodie-dev-service" />
-        <module name="foodie-dev-api" />
       </profile>
     </annotationProcessing>
   </component>

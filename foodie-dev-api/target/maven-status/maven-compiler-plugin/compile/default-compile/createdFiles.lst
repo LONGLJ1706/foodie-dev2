@@ -1,0 +1,5 @@
+com\imooc\config\Swagger2.class
+com\imooc\controller\StuController.class
+com\imooc\DevApiApplication.class
+com\imooc\controller\UserController.class
+com\imooc\controller\HelloController.class
